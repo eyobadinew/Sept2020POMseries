@@ -47,5 +47,8 @@ public class RegistrationPage extends BasePage {
 	    elementUtil.doClick(continueButton);
 	}
 	
-	
+	// the following method code is created for git hub update check
+	public void rememberMe() {
+		System.out.println("remember me test");
+	}
 }
